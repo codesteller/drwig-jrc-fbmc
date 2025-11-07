@@ -5,7 +5,15 @@ All notable changes to the FBMC vs OFDM Validation Framework will be documented 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+---
+
 ## [Unreleased]
+
+### Added
+- [x] **Branding Update**: Integrated Gahan AI logo across all documentation
+- [x] **CI/CD Pipeline**: GitHub Actions workflow for automated testing
+- [x] **Status Badges**: Build status, Python version, code style badges in README
+- [x] **Enhanced Documentation**: Professional headers and footers with company branding
 
 ### Planned Features
 - [ ] **Interactive Jupyter Notebooks**: Educational demonstrations with widgets

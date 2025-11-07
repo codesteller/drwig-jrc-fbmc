@@ -1,10 +1,26 @@
-# FBMC vs OFDM Validation Framework
+<div align="center">
+  <img src="docs/internal/gahan_logo.png" alt="Gahan AI Logo" width="200"/>
+  
+  # FBMC vs OFDM Validation Framework
+  
+  [![Python Version](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/downloads/)
+  [![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
+  [![Build Status](https://img.shields.io/github/actions/workflow/status/codesteller/drwig-jrc-fbmc/python-app.yml?branch=master)](https://github.com/codesteller/drwig-jrc-fbmc/actions)
+  [![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+  [![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/codesteller/drwig-jrc-fbmc/graphs/commit-activity)
+  
+  **A comprehensive Python implementation for validating Filter Bank Multi-Carrier (FBMC) versus Orthogonal Frequency Division Multiplexing (OFDM) waveforms in Joint Radar-Communication (JRC) systems.**
+  
+  [Quick Start](#-quick-start) • [Documentation](docs/) • [Contributing](docs/CONTRIBUTING.md) • [Citation](#-citation)
+</div>
 
-A comprehensive Python implementation for validating Filter Bank Multi-Carrier (FBMC) versus Orthogonal Frequency Division Multiplexing (OFDM) waveforms in Joint Radar-Communication (JRC) systems.
+---
 
 ## 🎯 Overview
 
 This framework provides computational validation for IEEE paper research on "FBMC Waveforms for Joint Radar-Communication," comparing theoretical predictions with simulation results across multiple performance metrics.
+
+> **Status**: ✅ Active Development | 🔬 Research-Grade | 📊 IEEE Paper Support
 
 ### Key Features
 
@@ -206,12 +222,37 @@ This is a research validation framework. For modifications:
 
 ## 📄 License
 
-© 2025 Gahan AI Private Limited. This validation framework supports academic research in joint radar-communication systems.
+© 2025 [Gahan AI Private Limited](https://gahanai.com). All rights reserved.
+
+This validation framework supports academic research in joint radar-communication systems. For commercial licensing inquiries, please contact [business@gahanai.com](mailto:business@gahanai.com).
 
 ## 🔗 Citation
 
 If you use this validation framework in your research, please reference the associated IEEE paper on "FBMC Waveforms for Joint Radar-Communication."
 
+```bibtex
+@article{fbmc_jrc_2025,
+  title={FBMC Waveforms for Joint Radar-Communication},
+  author={Your Authors},
+  journal={IEEE Transactions},
+  year={2025},
+  publisher={IEEE}
+}
+```
+
+## 📞 Contact & Support
+
+- **Company**: [Gahan AI Private Limited](https://gahanai.com)
+- **Email**: [research@gahanai.com](mailto:research@gahanai.com)
+- **Issues**: [GitHub Issues](https://github.com/codesteller/drwig-jrc-fbmc/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/codesteller/drwig-jrc-fbmc/discussions)
+
 ---
 
-**Note**: This framework provides computational validation for theoretical claims. Results may vary based on specific implementation details and system parameters. Always validate against your specific use case requirements.
+<div align="center">
+  <img src="docs/internal/gahan_logo.png" alt="Gahan AI" width="100"/>
+  <br>
+  <strong>Powered by Gahan AI Research</strong>
+  <br>
+  <sub>Advancing Joint Radar-Communication Technology</sub>
+</div>

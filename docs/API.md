@@ -1,4 +1,12 @@
-# API Reference
+<div align="center">
+  <img src="internal/gahan_logo.png" alt="Gahan AI Logo" width="150"/>
+  
+  # API Reference
+  
+  **FBMC vs OFDM Validation Framework**
+</div>
+
+---
 
 ## Core Classes
 
@@ -271,3 +279,11 @@ def plot_custom_analysis():
     # Your plotting code
     return fig
 ```
+
+---
+
+<div align="center">
+  <img src="internal/gahan_logo.png" alt="Gahan AI" width="80"/>
+  <br>
+  <strong>© 2025 Gahan AI Private Limited</strong>
+</div>

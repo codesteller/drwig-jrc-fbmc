@@ -1,4 +1,12 @@
-# Installation Guide
+<div align="center">
+  <img src="internal/gahan_logo.png" alt="Gahan AI Logo" width="150"/>
+  
+  # Installation Guide
+  
+  **FBMC vs OFDM Validation Framework**
+</div>
+
+---
 
 ## Prerequisites
 
@@ -349,5 +357,14 @@ After successful installation:
 For installation issues:
 1. Check this troubleshooting guide
 2. Verify system requirements
-3. Check GitHub issues for similar problems
+3. Check [GitHub Issues](https://github.com/codesteller/drwig-jrc-fbmc/issues)
+4. Contact [research@gahanai.com](mailto:research@gahanai.com)
+
+---
+
+<div align="center">
+  <img src="internal/gahan_logo.png" alt="Gahan AI" width="80"/>
+  <br>
+  <strong>© 2025 Gahan AI Private Limited</strong>
+</div>
 4. Create new issue with system details and error messages

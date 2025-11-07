@@ -1,4 +1,12 @@
-# Usage Guide
+<div align="center">
+  <img src="internal/gahan_logo.png" alt="Gahan AI Logo" width="150"/>
+  
+  # Usage Guide
+  
+  **FBMC vs OFDM Validation Framework**
+</div>
+
+---
 
 This guide provides detailed examples and use cases for the FBMC vs OFDM Validation Framework.
 
@@ -688,4 +696,12 @@ target_scenarios:
     rcs: 2
 ```
 
-This comprehensive usage guide provides extensive examples for customizing and extending the FBMC vs OFDM validation framework. Users can adapt these examples to their specific research needs and system requirements.
+---
+
+<div align="center">
+  <img src="internal/gahan_logo.png" alt="Gahan AI" width="80"/>
+  <br>
+  <strong>© 2025 Gahan AI Private Limited</strong>
+  <br>
+  <sub>This comprehensive usage guide provides extensive examples for customizing and extending the FBMC vs OFDM validation framework.</sub>
+</div>

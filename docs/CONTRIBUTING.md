@@ -1,4 +1,12 @@
-# Contributing Guidelines
+<div align="center">
+  <img src="internal/gahan_logo.png" alt="Gahan AI Logo" width="150"/>
+  
+  # Contributing Guidelines
+  
+  **FBMC vs OFDM Validation Framework**
+</div>
+
+---
 
 Thank you for your interest in contributing to the FBMC vs OFDM Validation Framework! This document provides guidelines for contributing to this scientific research project.
 
@@ -441,11 +449,18 @@ Contributors are recognized in:
 4. **Join Community**: Connect with other contributors
 
 ### Contact
-- **Maintainer**: Pallab Maji (pallab@gahanai.com)
+- **Company**: [Gahan AI Private Limited](https://gahanai.com)
+- **Maintainer**: Research Team ([research@gahanai.com](mailto:research@gahanai.com))
 - **GitHub Issues**: Technical problems
 - **Discussions**: General questions
 - **Email**: Academic collaboration
 
 ---
 
-Thank you for contributing to advancing the state of joint radar-communication research! Your contributions help make this validation framework more robust and useful for the scientific community.
+<div align="center">
+  <img src="internal/gahan_logo.png" alt="Gahan AI" width="80"/>
+  <br>
+  <strong>Powered by Gahan AI Research</strong>
+  <br>
+  <sub>Thank you for contributing to advancing joint radar-communication research!</sub>
+</div>

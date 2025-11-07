@@ -1,11 +1,36 @@
 [project]
 name = "fbmc-ttdf"
 version = "0.1.0"
-description = "Add your description here"
+description = "FBMC vs OFDM Validation Framework for Joint Radar-Communication Systems - Comprehensive analysis and validation of Filter Bank Multi-Carrier waveforms against OFDM for IEEE research"
 readme = "README.md"
 requires-python = ">=3.12"
+keywords = ["FBMC", "OFDM", "radar", "communication", "signal-processing", "wireless", "5G", "6G", "JRC"]
+authors = [
+    {name = "Pallab Maji", email = "pallab@gahanai.com"},
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+    "Topic :: Scientific/Engineering :: Physics",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.12",
+]
 dependencies = [
     "matplotlib>=3.10.7",
     "numpy>=2.3.4",
     "scipy>=1.16.3",
+]
+
+[project.urls]
+Homepage = "https://github.com/your-org/fbmc_ttdf"
+Documentation = "https://github.com/your-org/fbmc_ttdf/docs"
+Repository = "https://github.com/your-org/fbmc_ttdf"
+Issues = "https://github.com/your-org/fbmc_ttdf/issues"
+
+[tool.uv]
+dev-dependencies = [
+    "pytest>=7.0.0",
+    "black>=23.0.0",
+    "ruff>=0.1.0",
 ]

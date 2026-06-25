@@ -233,7 +233,7 @@ If you use this validation framework in your research, please reference the asso
 ```bibtex
 @article{fbmc_jrc_2025,
   title={FBMC Waveforms for Joint Radar-Communication},
-  author={Your Authors},
+  author={Pallab Maji, Pavan Patil, and Aswin Kumar},
   journal={IEEE Transactions},
   year={2025},
   publisher={IEEE}

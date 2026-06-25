@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/internal/gahan_logo.png" alt="Gahan AI Logo" width="200"/>
+  <img src="docs/gahan_logo.png" alt="Gahan AI Logo" width="200"/>
   
   # FBMC vs OFDM Validation Framework
   
@@ -250,7 +250,7 @@ If you use this validation framework in your research, please reference the asso
 ---
 
 <div align="center">
-  <img src="docs/internal/gahan_logo.png" alt="Gahan AI" width="100"/>
+  <img src="docs/gahan_logo.png" alt="Gahan AI" width="100"/>
   <br>
   <strong>Powered by Gahan AI Research</strong>
   <br>
